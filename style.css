@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    background: #04f792;
+}
+
+.container {
+    width: 500px;
+    margin: auto;
+    background: rgb(17, 7, 158);
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+button {
+    padding: 8px 15px;
+    background: #c20a66;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.post {
+    border: 1px solid #140303;
+    padding: 10px;
+    margin-top: 10px;
+}
